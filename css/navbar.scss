@@ -2,14 +2,8 @@
 /*                          Navbar Area                         */
 /* ============================================================ */
 
-#navbar {
+.custom-navbar {
   background: #71c55d;
-  position: fixed;
   color: #4e555b;
-  left: 0;
-  top: 0;
-  right: 0;
-  height: 60px;
-  z-index: 3;
   transition: all 0.5s ease;
 }
