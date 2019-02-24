@@ -16,19 +16,18 @@
     <!-- ========================== Custom Stylesheets =========================== -->
     <link rel="stylesheet" href="css/styles.css">
 </head>
-<body>
-
+<body data-spy="scroll" data-target="#customNavbar">
 
 <!-- ================ Start Navbar Area =================== -->
-<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="custom-navbar">
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="customNavbar">
     <a class="navbar-brand" href="#">L'Olivier du Kabylie</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-            <li class="nav-item active"><a class="nav-link" href="index.html">Home</a></li>
+        <ul class="nav navbar-nav mr-auto">
+            <li class="nav-item"><a class="nav-link active" href="index.html">Home</a></li>
             <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
             <li class="nav-item"><a class="nav-link" href="#features">Features</a></li>
             <li class="nav-item"><a class="nav-link" href="#blog">Blog</a></li>
@@ -38,7 +37,6 @@
     </div>
 </nav>
 <!-- ================ End Navbar Area =================== -->
-
 
 
 <!-- ================ Start Banner Area =================== -->
@@ -350,8 +348,12 @@
 
 
 <!-- ================ Start Features Area =================== -->
-<footer id="footer">
-
+<footer class="footer">
+    <ul class="list-unstyled justify-content-center">
+        <li class="text-muted">&copy; L'huile du Kabylie, Inc.</li>
+        <li class="text-muted"><a href="">Terms &amp;Conditions</a></li>
+        <li class="text-muted"><a href="">About Us</a></li>
+    </ul>
 </footer>
 
 <!-- ================ End Features Area ===================== -->

@@ -2,17 +2,21 @@
 /*                          Navbar Area                         */
 /* ============================================================ */
 
-#custom-navbar {
+#customNavbar {
   background: #71c55d;
   border-color: #1b1e21;
   color: #4e555b;
   transition: all 0.5s ease;
 }
 
-#custom-navbar .navbar-brand {
+#customNavbar .navbar-brand {
   font-weight: bold;
 }
 
-#custom-navbar .nav-item > .nav-link:hover {
+#customNavbar .nav-item > .nav-link:hover {
   color: #504747;
+}
+
+#customNavbar .nav-item > .active {
+  color: #504747 !important;
 }
