@@ -276,7 +276,7 @@ b, strong {
   line-height: 1;
 }
 
-#contact .form button[type=submit] {
+#contact .form input[type=submit] {
   background: #71c55d;
   border: 0;
   padding: 10px 24px;
