@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5fdc6c2-0592-4e32-88b6-52b8cdc4448f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/css/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/general.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/getting-started.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/getting-started.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/téléchargement.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/header_image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="344" column="68" selection-start-line="344" selection-start-column="68" selection-end-line="344" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/contact.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/olives2.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/olives_huile.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/olive-oil.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/olives1.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/general.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/getting-started.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/header.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Sass File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>banner</find>
+      <find>h4</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hello.sass" />
+        <option value="$PROJECT_DIR$/css/styles.sass" />
+        <option value="$PROJECT_DIR$/css/about.sass" />
+        <option value="$PROJECT_DIR$/css/header.sass" />
+        <option value="$PROJECT_DIR$/css/getting-started.sass" />
+        <option value="$PROJECT_DIR$/css/contact.sass" />
+        <option value="$PROJECT_DIR$/css/footer.sass" />
+        <option value="$PROJECT_DIR$/css/navbar.sass" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/css/features.scss" />
+        <option value="$PROJECT_DIR$/js/scripts.js" />
+        <option value="$PROJECT_DIR$/css/footer.scss" />
+        <option value="$PROJECT_DIR$/css/navbar.scss" />
+        <option value="$PROJECT_DIR$/css/navbar.css" />
+        <option value="$PROJECT_DIR$/css/header.css" />
+        <option value="$PROJECT_DIR$/css/styles.scss" />
+        <option value="$PROJECT_DIR$/css/header.scss" />
+        <option value="$PROJECT_DIR$/css/getting-started.scss" />
+        <option value="$PROJECT_DIR$/css/general.scss" />
+        <option value="$PROJECT_DIR$/css/about.scss" />
+        <option value="$PROJECT_DIR$/css/blog.scss" />
+        <option value="$PROJECT_DIR$/css/contact.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Juvas Landing Page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing-page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Juvas Landing Page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing-page" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Juvas Landing Page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing-page" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\storm\PhpstormProjects\landing-page\images" />
+      <recent name="C:\Users\storm\PhpstormProjects\landing-page" />
+      <recent name="C:\Users\storm\PhpstormProjects\landing-page\js" />
+      <recent name="C:\Users\storm\PhpstormProjects\landing-page\lib" />
+      <recent name="C:\Users\storm\PhpstormProjects\landing-page\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\storm\PhpstormProjects\landing-page\css" />
+      <recent name="C:\Users\storm\PhpstormProjects\landing-page\lib\bootstrap" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5fdc6c2-0592-4e32-88b6-52b8cdc4448f" name="Default Changelist" comment="" />
+      <created>1550834998023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550834998023</updated>
+      <workItem from="1550834999805" duration="1248000" />
+      <workItem from="1550839352921" duration="771000" />
+      <workItem from="1550851688311" duration="7767000" />
+      <workItem from="1550869860696" duration="39000" />
+      <workItem from="1550924315926" duration="4053000" />
+      <workItem from="1550938630001" duration="3472000" />
+      <workItem from="1550946980133" duration="2903000" />
+      <workItem from="1551011588926" duration="113000" />
+      <workItem from="1551011722862" duration="6779000" />
+      <workItem from="1551184398660" duration="5208000" />
+      <workItem from="1551193404880" duration="6817000" />
+    </task>
+    <task id="LOCAL-00001" summary="Landing page for FCC project">
+      <created>1550839648753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550839648753</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created the skeleton of the web page.">
+      <created>1550851878327</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550851878327</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created the nav area">
+      <created>1550859505453</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550859505453</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Completed the header area">
+      <created>1550862476979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550862476979</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixings">
+      <created>1550863663912</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550863663912</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Finished Getting Started Section">
+      <created>1550926328831</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1550926328831</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Finished About section">
+      <created>1550931749256</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1550931749256</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added icon">
+      <created>1550939516963</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1550939516963</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Finished features">
+      <created>1550940696713</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1550940696713</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added pricing">
+      <created>1550942158954</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1550942158954</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added Blog Section">
+      <created>1550948780149</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1550948780149</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Finished the first version">
+      <created>1550949857433</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1550949857433</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Refactoring">
+      <created>1550949902992</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1550949902992</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added some files">
+      <created>1551011913921</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1551011913921</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fixed the navbar">
+      <created>1551015080702</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1551015080702</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fixed styling of the navbar">
+      <created>1551023157324</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1551023157324</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added footer">
+      <created>1551025624568</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1551025624568</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Refactorings">
+      <created>1551188367282</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1551188367287</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Refactorings">
+      <created>1551189644184</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1551189644184</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added pictures">
+      <created>1551193535852</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1551193535852</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Refactorings and fixing styling of header and getting started and features">
+      <created>1551197631251</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1551197631255</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Fixed pricing">
+      <created>1551202730389</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1551202730389</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Fixed the blog">
+      <created>1551203774536</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1551203774536</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Finished version 1.0.1">
+      <created>1551204262963</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1551204262963</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39170000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22692889" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" weight="0.5531915" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Landing page for FCC project" />
+    <MESSAGE value="Created the skeleton of the web page." />
+    <MESSAGE value="Created the nav area" />
+    <MESSAGE value="Completed the header area" />
+    <MESSAGE value="Fixings" />
+    <MESSAGE value="Finished Getting Started Section" />
+    <MESSAGE value="Finished About section" />
+    <MESSAGE value="Added icon" />
+    <MESSAGE value="Finished features" />
+    <MESSAGE value="Added pricing" />
+    <MESSAGE value="Added Blog Section" />
+    <MESSAGE value="Finished the first version" />
+    <MESSAGE value="Refactoring" />
+    <MESSAGE value="Added some files" />
+    <MESSAGE value="Fixed the navbar" />
+    <MESSAGE value="Fixed styling of the navbar" />
+    <MESSAGE value="Added footer" />
+    <MESSAGE value="Refactorings" />
+    <MESSAGE value="Added pictures" />
+    <MESSAGE value="Refactorings and fixing styling of header and getting started and features" />
+    <MESSAGE value="Fixed pricing" />
+    <MESSAGE value="Fixed the blog" />
+    <MESSAGE value="Finished version 1.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished version 1.0.1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hello.sass" />
+    <entry file="file://$USER_HOME$/Desktop/Projects/hello world/index.html" />
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap/css/font-awesome.min.css" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/features.css.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/features.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/temp/Rar$DIa6732.7485/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2443" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/babel/index.babel">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Projects/Documentation-Page/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="53" selection-start-line="7" selection-start-column="4" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/navbar.scss" />
+    <entry file="file://$PROJECT_DIR$/css/navbar.css" />
+    <entry file="file://$PROJECT_DIR$/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/cover.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/champs_olives.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/syringe.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/header_image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/food.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/huile.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/makeover.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/doctor.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/getting-started.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/about.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/olive-oil.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/olives1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/olives2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/olives_huile.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/general.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/contact.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="344" column="68" selection-start-line="344" selection-start-column="68" selection-end-line="344" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
