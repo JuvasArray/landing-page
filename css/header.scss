@@ -30,6 +30,9 @@
   font-weight: 700;
   line-height: 56px;
   font-family: "Philosopher", sans-serif;
+}
+
+#header h1 > span {
   color: #71c55d;
 }
 
@@ -53,3 +56,21 @@
   color: #71c55d;
   text-decoration: none;
 }
+
+
+#nav-bar {
+  background: #71c55d;
+}
+
+#nav-bar .navbar-brand {
+  color: #005cbf;
+}
+
+#nav-bar .nav-item > .active {
+  color: #1b1e21;
+}
+
+#nav-bar li > a:hover {
+  color: #1b1e21;
+}
+

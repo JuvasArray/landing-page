@@ -1,6 +1,11 @@
 /* ============================================================ */
 /*                           General                            */
 /* ============================================================ */
+.padding-section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
 h4 {
   color: #000;
   font-size: 13px;
@@ -24,9 +29,17 @@ a {
   text-decoration: none;
 }
 
-.padding-section {
-  padding-top: 80px;
-  padding-bottom: 80px;
+.fa {
+  font-size: 15px;
+}
+
+.separator {
+  color: #626262;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  margin-bottom: 30px;
+  text-transform: capitalize;
 }
 
 /* ============================================================ */
@@ -38,32 +51,6 @@ body {
 
 h1, h2, h3, h4, h5, h6, .nav, .navbar {
   font-family: "Poiret One", cursive;
-}
-
-.fa {
-  font-size: 15px;
-}
-
-/* ============================================================ */
-/*                          Navbar Area                         */
-/* ============================================================ */
-#nav-bar {
-  background: #71c55d;
-  border-color: #1b1e21;
-  color: #4e555b;
-  transition: all 0.5s ease;
-}
-
-#nav-bar .navbar-brand {
-  font-weight: bold;
-}
-
-#nav-bar .nav-item > .nav-link:hover {
-  color: #504747;
-}
-
-#nav-bar .nav-item > .active {
-  color: #504747 !important;
 }
 
 /* ============================================================ */
@@ -97,6 +84,9 @@ h1, h2, h3, h4, h5, h6, .nav, .navbar {
   font-weight: 700;
   line-height: 56px;
   font-family: "Philosopher", sans-serif;
+}
+
+#header h1 > span {
   color: #71c55d;
 }
 
@@ -121,19 +111,26 @@ h1, h2, h3, h4, h5, h6, .nav, .navbar {
   text-decoration: none;
 }
 
+#nav-bar {
+  background: #71c55d;
+}
+
+#nav-bar .navbar-brand {
+  color: #005cbf;
+}
+
+#nav-bar .nav-item > .active {
+  color: #1b1e21;
+}
+
+#nav-bar li > a:hover {
+  color: #1b1e21;
+}
+
 /* ============================================================ */
 /*                       Get Started Area                       */
 /* ============================================================ */
-#get-started .separator {
-  color: #626262;
-  font-family: "Roboto", sans-serif;
-  font-size: 15px;
-  font-weight: 300;
-  margin-bottom: 30px;
-  text-transform: capitalize;
-}
-
-#get-started .img-fluid {
+#features .img-fluid {
   height: 60px;
   margin-bottom: 30px;
   width: 60px;

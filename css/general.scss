@@ -1,6 +1,12 @@
 /* ============================================================ */
 /*                           General                            */
 /* ============================================================ */
+
+.padding-section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
 h4 {
   color: #000;
   font-size: 13px;
@@ -24,10 +30,19 @@ a {
   text-decoration: none;
 }
 
-.padding-section {
-  padding-top: 80px;
-  padding-bottom: 80px;
+.fa {
+  font-size: 15px;
 }
+
+.separator {
+  color: #626262;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  margin-bottom: 30px;
+  text-transform: capitalize;
+}
+
 
 /* ============================================================ */
 /*                           Fonts                            */
@@ -40,6 +55,3 @@ h1, h2, h3, h4, h5, h6, .nav, .navbar {
   font-family: "Poiret One", cursive;
 }
 
-.fa {
-  font-size: 15px;
-}
