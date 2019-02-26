@@ -2,7 +2,7 @@
 /*                          Header Area                         */
 /* ============================================================ */
 
-#banner {
+#header {
   font-family: Candara, "Roboto", sans-serif;
   text-align: center;
   margin-top: 20px;
@@ -11,7 +11,7 @@
   position: relative;
 }
 
-#banner .banner-container {
+#header .banner-container {
   position: absolute;
   bottom: 0;
   top: 0;
@@ -24,7 +24,7 @@
   text-align: center;
 }
 
-#banner h1 {
+#header h1 {
   margin: 0 0 10px 0;
   font-size: 48px;
   font-weight: 700;
@@ -33,12 +33,12 @@
   color: #71c55d;
 }
 
-#banner img {
+#header img {
   max-width: 95%;
   margin-bottom: 30px;
 }
 
-#banner .btn-contact {
+#header .btn-contact {
   text-transform: uppercase;
   font-weight: 400;
   font-size: 13px;

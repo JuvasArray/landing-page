@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="FCC: Landing Page">
+    <meta name="author" content="Ait Hamiche Achour">
     <link rel="icon" href="images/icon.png">
     <title>L'Olivier du Kabylie | Landing Page</title>
     <!-- ============================== Google Fonts ============================= -->
@@ -18,33 +20,30 @@
 </head>
 <body data-spy="scroll" data-target="#customNavbar">
 
-<!-- ================ Start Navbar Area =================== -->
-<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="customNavbar">
-    <a class="navbar-brand" href="#">L'Olivier du Kabylie</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="nav navbar-nav mr-auto">
-            <li class="nav-item"><a class="nav-link active" href="index.html">Home</a></li>
-            <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-            <li class="nav-item"><a class="nav-link" href="#features">Features</a></li>
-            <li class="nav-item"><a class="nav-link" href="#blog">Blog</a></li>
-            <li class="nav-item"><a class="nav-link" href="#pricing">Pricing</a></li>
-            <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
-        </ul>
-    </div>
-</nav>
-<!-- ================ End Navbar Area =================== -->
+<!-- ================ Start Header Area =================== -->
+<header id="header">
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="nav-bar">
+        <a class="navbar-brand" href="#">L'Olivier du Kabylie</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="nav navbar-nav mr-auto">
+                <li class="nav-item"><a class="nav-link active" href="#get-started">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                <li class="nav-item"><a class="nav-link" href="#features">Features</a></li>
+                <li class="nav-item"><a class="nav-link" href="#blog">Blog</a></li>
+                <li class="nav-item"><a class="nav-link" href="#pricing">Pricing</a></li>
+                <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
 
-
-<!-- ================ Start Banner Area =================== -->
-<header id="banner">
     <div class="banner-container">
         <h1>Welcome to <span class="text-uppercase"> L'olivier du Kabylie</span></h1>
         <h2>La santé et le bien être</h2>
-        <img class="img-fluid" src="images/huile.jpeg" alt="Huile du Kabylie">
+        <img id="header-img" class="img-fluid" src="images/huile.jpeg" alt="Huile du Kabylie">
         <button class="btn-contact">Get started</button>
     </div>
 </header>
@@ -184,7 +183,7 @@
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-lg-6">
+            <div class="col-md-4 col-lg-4">
                 <div class="block-pricing">
                     <div class="table">
                         <h4>basic</h4>
@@ -203,7 +202,7 @@
                 </div>
             </div>
 
-            <div class="col-md-6 col-lg-6">
+            <div class="col-md-4 col-lg-4">
                 <div class="block-pricing">
                     <div class="table">
                         <h4>basic</h4>
@@ -214,6 +213,25 @@
                             <li><b>40 GB</b> SSD Cloud Storage</li>
                             <li>Monthly Backups</li>
                             <li>Palo Protection</li>
+                        </ul>
+                        <div class="table_btn">
+                            <a href="#" class="btn"><i class="fa fa-shopping-cart"></i> Buy Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-lg-4">
+                <div class="block-pricing">
+                    <div class="table">
+                        <h4>basic</h4>
+                        <h2>$29</h2>
+                        <ul class="liy Backups</li>
+                            <li>Palo Protectist-unstyled">
+                            <li><b>4 GB</b> Ram</li>
+                            <li><b>7/24</b> Tech Support</li>
+                            <li><b>40 GB</b> SSD Cloud Storage</li>
+                            <li>Monthlon</li>
                         </ul>
                         <div class="table_btn">
                             <a href="#" class="btn"><i class="fa fa-shopping-cart"></i> Buy Now</a>
@@ -290,7 +308,7 @@
                 <div class="info">
                     <div>
                         <i class="fa fa-map-marker"></i>
-                        <p>A108 Adam Street<br>New York, NY 535022</p>
+                        <p>Amirouche Street<br>Tizi Ouzou, TO 15000</p>
                     </div>
                     <div class="email">
                         <i class="fa fa-envelope"></i>
@@ -298,7 +316,7 @@
                     </div>
                     <div>
                         <i class="fa fa-phone"></i>
-                        <p>+1 5589 55488 55s</p>
+                        <p>+213 799 231 483</p>
                     </div>
                 </div>
                 <div class="social-links">
@@ -313,7 +331,7 @@
                 <div class="form">
                     <div id="send-message">Your message has been sent. Thank you!</div>
                     <div id="errormessage"></div>
-                    <form action="" method="post" role="form" class="contactForm">
+                    <form id="form" action="" method="post" role="form" class="contactForm">
                         <div class="form-group">
                             <input type="text" name="name" class="form-control" id="name" placeholder="Your Name"
                                    data-rule="minlen:4" data-msg="Please enter at least 4 chars"/>
@@ -335,7 +353,7 @@
                             <div class="validation"></div>
                         </div>
                         <div class="text-center">
-                            <button type="submit">Send Message</button>
+                            <input id="submit" type="submit">Send Message</input>
                         </div>
                     </form>
                 </div>
@@ -363,5 +381,6 @@
 <script src="lib/bootstrap/js/bootstrap.min.js"></script>
 <script src="js/popper.min.js"></script>
 <script src="js/scripts.js"></script>
+<script src='https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js'></script>
 </body>
 </html>

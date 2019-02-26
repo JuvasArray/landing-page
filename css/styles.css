@@ -1,11 +1,6 @@
 /* ============================================================ */
 /*                           General                            */
 /* ============================================================ */
-.padding-section {
-  padding-top: 80px;
-  padding-bottom: 80px;
-}
-
 h4 {
   color: #000;
   font-size: 13px;
@@ -29,13 +24,14 @@ a {
   text-decoration: none;
 }
 
+.padding-section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
 /* ============================================================ */
 /*                           Fonts                            */
 /* ============================================================ */
-.fa {
-  font-size: 15px;
-}
-
 body {
   font-family: "Lato", cursive;
 }
@@ -44,32 +40,36 @@ h1, h2, h3, h4, h5, h6, .nav, .navbar {
   font-family: "Poiret One", cursive;
 }
 
+.fa {
+  font-size: 15px;
+}
+
 /* ============================================================ */
 /*                          Navbar Area                         */
 /* ============================================================ */
-#customNavbar {
+#nav-bar {
   background: #71c55d;
   border-color: #1b1e21;
   color: #4e555b;
   transition: all 0.5s ease;
 }
 
-#customNavbar .navbar-brand {
+#nav-bar .navbar-brand {
   font-weight: bold;
 }
 
-#customNavbar .nav-item > .nav-link:hover {
+#nav-bar .nav-item > .nav-link:hover {
   color: #504747;
 }
 
-#customNavbar .nav-item > .active {
+#nav-bar .nav-item > .active {
   color: #504747 !important;
 }
 
 /* ============================================================ */
 /*                          Header Area                         */
 /* ============================================================ */
-#banner {
+#header {
   font-family: Candara, "Roboto", sans-serif;
   text-align: center;
   margin-top: 20px;
@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6, .nav, .navbar {
   position: relative;
 }
 
-#banner .banner-container {
+#header .banner-container {
   position: absolute;
   bottom: 0;
   top: 0;
@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6, .nav, .navbar {
   text-align: center;
 }
 
-#banner h1 {
+#header h1 {
   margin: 0 0 10px 0;
   font-size: 48px;
   font-weight: 700;
@@ -100,12 +100,12 @@ h1, h2, h3, h4, h5, h6, .nav, .navbar {
   color: #71c55d;
 }
 
-#banner img {
+#header img {
   max-width: 95%;
   margin-bottom: 30px;
 }
 
-#banner .btn-contact {
+#header .btn-contact {
   text-transform: uppercase;
   font-weight: 400;
   font-size: 13px;
